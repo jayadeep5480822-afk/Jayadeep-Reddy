@@ -1,0 +1,6 @@
+{
+  "name": "Vidya AI",
+  "description": "AI higher studies tutor with PDF learning, animated AI video avatars, interactive live examples, in-lecture checkpoints, and mock tests with remedial explanations in Telugu, Hindi & English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vidya AI</string>
+    <string name="tagline">AI Higher Studies Companion</string>
+    <string name="lang_english">English</string>
+    <string name="lang_telugu">తెలుగు (Telugu)</string>
+    <string name="lang_hindi">हिंदी (Hindi)</string>
+</resources>
